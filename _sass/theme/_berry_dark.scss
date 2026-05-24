@@ -27,22 +27,24 @@ $navicon-height             : 4px;
 $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
-/* Berry dark theme for the site */
-:root {
-    --global-base-color                 : #e89bb5;              /* Light raspberry */
-    --global-bg-color                   : #1a1220;              /* Very dark purple-black */
-    --global-footer-bg-color            : #2d1f2b;              /* Dark purple footer */
-    --global-border-color               : #3d2d3b;              /* Dark purple border */
-    --global-dark-border-color          : #5a3f57;              /* Medium dark purple border */
-    --global-code-background-color      : #251a23;              /* Very dark purple for code bg */
-    --global-code-text-color            : #e8d5e3;              /* Light rose for code text */
-    --global-fig-caption-color          : #c7a8c0;              /* Light berry purple for captions */
-    --global-link-color                 : #e89bb5;              /* Light raspberry */
-    --global-link-color-hover           : #ffb8d1;              /* Very light raspberry hover */
-    --global-link-color-visited         : #d99db3;              /* Light berry visited */  
-    --global-masthead-link-color        : #e8d5e3;              /* Light rose for masthead */
-    --global-masthead-link-color-hover  : #e89bb5;              /* Light raspberry hover */    
-    --global-text-color                 : #e8d5e3;              /* Very light rose */
-    --global-text-color-light           : #c7a8c0;              /* Light berry purple */
-    --global-thead-color                : #3d2d3b;              /* Dark purple for table headers */
+/* Dark mode preference */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --global-base-color                 : #e89bb5;              /* Light raspberry */
+        --global-bg-color                   : #1a1220;              /* Very dark purple-black */
+        --global-footer-bg-color            : #2d1f2b;              /* Dark purple footer */
+        --global-border-color               : #3d2d3b;              /* Dark purple border */
+        --global-dark-border-color          : #5a3f57;              /* Medium dark purple border */
+        --global-code-background-color      : #251a23;              /* Very dark purple for code bg */
+        --global-code-text-color            : #e8d5e3;              /* Light rose for code text */
+        --global-fig-caption-color          : #c7a8c0;              /* Light berry purple for captions */
+        --global-link-color                 : #e89bb5;              /* Light raspberry */
+        --global-link-color-hover           : #ffb8d1;              /* Very light raspberry hover */
+        --global-link-color-visited         : #d99db3;              /* Light berry visited */  
+        --global-masthead-link-color        : #e8d5e3;              /* Light rose for masthead */
+        --global-masthead-link-color-hover  : #e89bb5;              /* Light raspberry hover */    
+        --global-text-color                 : #e8d5e3;              /* Very light rose */
+        --global-text-color-light           : #c7a8c0;              /* Light berry purple */
+        --global-thead-color                : #3d2d3b;              /* Dark purple for table headers */
+    }
 }
