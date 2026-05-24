@@ -1,0 +1,48 @@
+/* ==========================================================================
+    BERRY THEME - DARK VERSION
+    ========================================================================== */
+
+/* Color codes used for the theme */
+$primary-color              : #e89bb5;  /* Light raspberry */
+$gray                       : #a89a9a;  /* Lighter purple-gray */
+$dark-gray                  : mix(#000, $gray, 40%);
+$darker-gray                : mix(#000, $gray, 60%);
+$light-gray                 : mix(#fff, $gray, 50%);
+$lighter-gray               : mix(#fff, $gray, 90%);
+
+/* Color codes used for the site */
+$danger-color               : #ff9bb5;  /* Light raspberry */
+$info-color                 : #e89bb5;  /* Light raspberry */
+$notice-color               : #c7a8c0;  /* Light berry purple */
+$success-color              : #d99db3;  /* Light berry */
+$warning-color              : #ffb8d1;  /* Very light raspberry */
+
+/* Other basic settings for the template */
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+/* Berry dark theme for the site */
+:root {
+    --global-base-color                 : #e89bb5;              /* Light raspberry */
+    --global-bg-color                   : #1a1220;              /* Very dark purple-black */
+    --global-footer-bg-color            : #2d1f2b;              /* Dark purple footer */
+    --global-border-color               : #3d2d3b;              /* Dark purple border */
+    --global-dark-border-color          : #5a3f57;              /* Medium dark purple border */
+    --global-code-background-color      : #251a23;              /* Very dark purple for code bg */
+    --global-code-text-color            : #e8d5e3;              /* Light rose for code text */
+    --global-fig-caption-color          : #c7a8c0;              /* Light berry purple for captions */
+    --global-link-color                 : #e89bb5;              /* Light raspberry */
+    --global-link-color-hover           : #ffb8d1;              /* Very light raspberry hover */
+    --global-link-color-visited         : #d99db3;              /* Light berry visited */  
+    --global-masthead-link-color        : #e8d5e3;              /* Light rose for masthead */
+    --global-masthead-link-color-hover  : #e89bb5;              /* Light raspberry hover */    
+    --global-text-color                 : #e8d5e3;              /* Very light rose */
+    --global-text-color-light           : #c7a8c0;              /* Light berry purple */
+    --global-thead-color                : #3d2d3b;              /* Dark purple for table headers */
+}
