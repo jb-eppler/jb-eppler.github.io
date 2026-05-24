@@ -23,7 +23,7 @@ repository               : "jb-eppler/jb-eppler.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Bastian_head.JPG"
   name             : "Jens-Bastian Eppler"
   pronouns         : # "he/him"  
   bio              : "Theoretical neuroscientist - representational drift, memory, forgetting, learning in neuronal networks."
