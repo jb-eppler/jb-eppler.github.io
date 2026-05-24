@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jens-Bastian Eppler"
-  pronouns         : "he/him"  
+  pronouns         : # "he/him"  
   bio              : "Theoretical neuroscientist - representational drift, memory, forgetting, learning in neuronal networks."
   location         : "Barcelona, Spain"
   employer         : "Centre de Recerca Matemàtica"
