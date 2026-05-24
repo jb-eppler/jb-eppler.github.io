@@ -1,5 +1,5 @@
 /* ==========================================================================
-    BERRY THEME - LIGHT VERSION
+    BERRY THEME - LIGHT VERSION (REVISED)
     ========================================================================== */
 
 /* Color codes used for the theme */
@@ -29,20 +29,20 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Berry light theme for the site */
 :root {
-    --global-base-color                 : #c7417b;              /* Raspberry */
-    --global-bg-color                   : #fef5f5;              /* Very light rose */
-    --global-footer-bg-color            : #c7417b;              /* Raspberry footer */
-    --global-border-color               : #f0d9e3;              /* Light rose border */
+    --global-base-color                 : #c7417b;              /* Raspberry primary */
+    --global-bg-color                   : #fef5f5;              /* Very light rose background */
+    --global-footer-bg-color            : #f5e8ed;              /* Light rose footer */
+    --global-border-color               : #e8c9d9;              /* Medium rose border */
     --global-dark-border-color          : #d99db3;              /* Lighter raspberry border */
     --global-code-background-color      : #faf7f8;              /* Very light rose for code bg */
-    --global-code-text-color            : #3d2436;              /* Dark purple for code */
+    --global-code-text-color            : #3d2436;              /* Dark purple for code text */
     --global-fig-caption-color          : #8b6b7a;              /* Muted purple for captions */
-    --global-link-color                 : #c7417b;              /* Raspberry */
-    --global-link-color-hover           : #a85a8a;              /* Berry purple hover */
+    --global-link-color                 : #a85a8a;              /* Berry purple links */
+    --global-link-color-hover           : #c7417b;              /* Raspberry on hover */
     --global-link-color-visited         : #9b4d7b;              /* Dark berry visited */  
     --global-masthead-link-color        : #3d2436;              /* Dark purple for masthead */
     --global-masthead-link-color-hover  : #c7417b;              /* Raspberry hover */    
-    --global-text-color                 : #3d2436;              /* Very dark blackberry */
-    --global-text-color-light           : #8b6b7a;              /* Muted purple */
-    --global-thead-color                : #f0d9e3;              /* Light rose for table headers */
+    --global-text-color                 : #3d2436;              /* Very dark blackberry text */
+    --global-text-color-light           : #7a5a6e;              /* Darker muted purple for secondary text */
+    --global-thead-color                : #e8c9d9;              /* Medium rose for table headers */
 }
