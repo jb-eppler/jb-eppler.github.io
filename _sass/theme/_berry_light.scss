@@ -1,22 +1,25 @@
 /* ==========================================================================
     BERRY THEME - LIGHT VERSION
     ========================================================================== */
-
 /* Color codes used for the theme */
 $primary-color              : #c7417b;  /* Raspberry */
-$gray                       : #8b6b7a;  /* Muted purple-gray */
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
-
+$dark-primary-color         : mix(#000, $primary-color, 40%);
+$darker-primary-color       : mix(#000, $primary-color, 60%);
+$light-primary-color        : mix(#000, $primary-color, 50%);
+$background                 : #fef5f5;  /* Very light rose */
+$background-light           : mix(#fff, $background, 20%);
+$background-lighter         : mix(#fff, $background, 90%);
+$text                       : #3d2436;  /* Dark blackberry */
+$link                       : #8b6b7a;  /* Muted purple */
+$link-dark                  : mix(#000, $link, 25%);
+$link-light                 : mix(#fff, $link, 25%);
+$footer                     : $primary-color;
 /* Color codes used for the site */
-$danger-color               : #d64278;  /* Darker raspberry */
-$info-color                 : #c7417b;  /* Raspberry */
-$notice-color               : #8b6b7a;  /* Muted purple */
-$success-color              : #a85a8a;  /* Berry purple */
-$warning-color              : #d99db3;  /* Lighter raspberry */
-
+$danger-color               : #ee5f5b;
+$info-color                 : #2f7f93;
+$notice-color               : #7a8288;
+$success-color              : #62c462;
+$warning-color              : #f89406;
 /* Other basic settings for the template */
 $border-radius              : 4px;
 $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
@@ -26,45 +29,22 @@ $navicon-width              : 28px;
 $navicon-height             : 4px;
 $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
-
-/* Berry light theme for the site - DEFAULT */
+/* Light theme for the site */
 :root {
-    --global-base-color                 : #c7417b;              /* Raspberry primary */
-    --global-bg-color                   : #fef5f5;              /* Very light rose background */
-    --global-footer-bg-color            : #f5e8ed;              /* Light rose footer */
-    --global-border-color               : #e8c9d9;              /* Medium rose border */
-    --global-dark-border-color          : #d99db3;              /* Lighter raspberry border */
-    --global-code-background-color      : #faf7f8;              /* Very light rose for code bg */
-    --global-code-text-color            : #3d2436;              /* Dark purple for code text */
-    --global-fig-caption-color          : #8b6b7a;              /* Muted purple for captions */
-    --global-link-color                 : #a85a8a;              /* Berry purple links */
-    --global-link-color-hover           : #c7417b;              /* Raspberry on hover */
-    --global-link-color-visited         : #9b4d7b;              /* Dark berry visited */  
-    --global-masthead-link-color        : #3d2436;              /* Dark purple for masthead */
-    --global-masthead-link-color-hover  : #c7417b;              /* Raspberry hover */    
-    --global-text-color                 : #3d2436;              /* Very dark blackberry text */
-    --global-text-color-light           : #7a5a6e;              /* Darker muted purple for secondary text */
-    --global-thead-color                : #e8c9d9;              /* Medium rose for table headers */
-}
-
-/* Light mode preference */
-@media (prefers-color-scheme: light) {
-    :root {
-        --global-base-color                 : #c7417b;              /* Raspberry primary */
-        --global-bg-color                   : #fef5f5;              /* Very light rose background */
-        --global-footer-bg-color            : #f5e8ed;              /* Light rose footer */
-        --global-border-color               : #e8c9d9;              /* Medium rose border */
-        --global-dark-border-color          : #d99db3;              /* Lighter raspberry border */
-        --global-code-background-color      : #faf7f8;              /* Very light rose for code bg */
-        --global-code-text-color            : #3d2436;              /* Dark purple for code text */
-        --global-fig-caption-color          : #8b6b7a;              /* Muted purple for captions */
-        --global-link-color                 : #a85a8a;              /* Berry purple links */
-        --global-link-color-hover           : #c7417b;              /* Raspberry on hover */
-        --global-link-color-visited         : #9b4d7b;              /* Dark berry visited */  
-        --global-masthead-link-color        : #3d2436;              /* Dark purple for masthead */
-        --global-masthead-link-color-hover  : #c7417b;              /* Raspberry hover */    
-        --global-text-color                 : #3d2436;              /* Very dark blackberry text */
-        --global-text-color-light           : #7a5a6e;              /* Darker muted purple for secondary text */
-        --global-thead-color                : #e8c9d9;              /* Medium rose for table headers */
-    }
+    --global-base-color                 : #{$primary-color};
+    --global-bg-color                   : #{$background};
+    --global-footer-bg-color            : #{$footer};
+    --global-border-color               : #{$light-primary-color};
+    --global-dark-border-color          : #{$background-light};
+    --global-code-background-color      : #fafafa;
+    --global-code-text-color            : #{$darker-primary-color};
+    --global-fig-caption-color          : #{$light-primary-color};
+    --global-link-color                 : #{$link};
+    --global-link-color-hover           : #{$link-dark};
+    --global-link-color-visited         : #{$link-light};
+    --global-masthead-link-color        : #{$text};
+    --global-masthead-link-color-hover  : #{$primary-color};
+    --global-text-color                 : #{$text};
+    --global-text-color-light           : #{$light-primary-color};
+    --global-thead-color                : #{$background-lighter};
 }
