@@ -16,4 +16,4 @@ Sensory stimuli have long been thought to be represented in the brain as activit
 
 *Keywords: mouse; auditory cortex; population coding; perception; chronic calcium imaging; response transitions; associations; auditory-cued fear conditioning; representational drift*
 
-[Read at Cell Reports]({{ https://doi.org/10.1016/j.celrep.2022.110340 }})
+[Read at Cell Reports](https://doi.org/10.1016/j.celrep.2022.110340)
