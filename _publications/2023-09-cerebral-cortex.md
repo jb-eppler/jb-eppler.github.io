@@ -6,7 +6,8 @@ permalink: /publication/2023-09-cerebral-cortex
 excerpt: 'Despite stability in topographic maps, individual neurons undergo substantial reformatting. We show sensory maps are maintained by drifting subpopulations of neurons.'
 date: 2023-09-01
 venue: 'Cerebral Cortex'
-citation: 'A R Chambers, D F Aschauer, J-B Eppler, M Kaschube, & S Rumpel. (2023). &quot;A stable sensory map emerges from a dynamic equilibrium of neurons with unstable tuning properties.&quot; <i>Cerebral Cortex</i>, 33(9), 5597–5612.'
+# paperurl: 'https://doi.org/10.1093/cercor/bhac445'
+citation: 'AR Chambers, DF Aschauer, J-B Eppler, M Kaschube, & S Rumpel. (2023). &quot;A stable sensory map emerges from a dynamic equilibrium of neurons with unstable tuning properties.&quot; <i>Cerebral Cortex</i>, 33(9), 5597–5612.'
 ---
 
 ## Abstract
@@ -15,4 +16,4 @@ Recent long-term measurements of neuronal activity have revealed that, despite s
 
 *Keywords: auditory cortex; neuronal tuning; representational stability; population coding; 2-photon imaging; Markov chain modeling*
 
-[View on Cerebral Cortex](https://doi.org/10.1093/cercor/bhac445)
+[Read at Cerebral Cortex]({{ https://doi.org/10.1093/cercor/bhac445 }})
