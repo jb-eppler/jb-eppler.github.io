@@ -6,7 +6,7 @@ permalink: /publication/2022-02-cell-reports
 excerpt: 'We show that learning-induced plasticity in representations of sound stimuli in mouse auditory cortex weaves into ongoing representational drift.'
 date: 2022-02-15
 venue: 'Cell Reports'
-paperurl: 'https://doi.org/10.1016/j.celrep.2022.110340'
+# paperurl: 'https://doi.org/10.1016/j.celrep.2022.110340'
 citation: 'D F Aschauer, J-B Eppler, L Ewig, A R Chambers, C Pokorny, M Kaschube, & S Rumpel. (2022). &quot;Learning-induced biases in the ongoing dynamics of sensory representations predict stimulus generalization.&quot; <i>Cell Reports</i>, 38(6), 110340.'
 ---
 
@@ -16,4 +16,4 @@ Sensory stimuli have long been thought to be represented in the brain as activit
 
 *Keywords: mouse; auditory cortex; population coding; perception; chronic calcium imaging; response transitions; associations; auditory-cued fear conditioning; representational drift*
 
-[Read at Cell Reports]({{ page.paperurl }})
+[Read at Cell Reports]({{ https://doi.org/10.1016/j.celrep.2022.110340 }})
