@@ -16,4 +16,4 @@ Recent long-term measurements of neuronal activity have revealed that, despite s
 
 *Keywords: auditory cortex; neuronal tuning; representational stability; population coding; 2-photon imaging; Markov chain modeling*
 
-[Read at Cerebral Cortex]({{ https://doi.org/10.1093/cercor/bhac445 }})
+[Read at Cerebral Cortex](https://doi.org/10.1093/cercor/bhac445)
