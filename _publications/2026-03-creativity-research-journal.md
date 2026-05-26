@@ -6,7 +6,7 @@ permalink: /publication/2026-03-creativity-research-journal
 excerpt: 'We leverage Marr's levels of analysis to delineate potential circuit mechanisms underlying creativity and suggest testable hypotheses for creative ideation.'
 date: 2026-03-01
 venue: 'Creativity Research Journal'
-citation: 'J P-H Seiler, J-B Eppler, O Dan, J Elpelt, M Kaschube, & S Rumpel. (2026). &quot;Towards Circuit Mechanisms of the Creative Process.&quot; <i>Creativity Research Journal</i>, 0(0), 1–20. https://doi.org/10.1080/10400419.2026.2646676'
+citation: 'JP-H Seiler, J-B Eppler, O Dan, J Elpelt, M Kaschube, & S Rumpel. (2026). &quot;Towards Circuit Mechanisms of the Creative Process.&quot; <i>Creativity Research Journal</i>, 0(0), 1–20. https://doi.org/10.1080/10400419.2026.2646676'
 ---
 
 ## Abstract
