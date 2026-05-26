@@ -6,7 +6,7 @@ permalink: /publication/2022-phd-thesis
 excerpt: 'PhD thesis on representational drift in neocortical populations, investigating mechanisms through both experimental data and computational modeling.'
 date: 2022-01-01
 venue: 'Johann Wolfgang Goethe-Universität Frankfurt am Main'
-citation: 'J-B Eppler. (2022). &quot;Ongoing neuronal population activity dynamics in the neocortex - representational drift in experiment and model.&quot; PhD Thesis, Johann Wolfgang Goethe-Universität Frankfurt am Main.'
+citation: 'J-B Eppler. (2022). &quot;Ongoing neuronal population activity dynamics in the neocortex - representational drift in experiment and model.&quot; PhD Thesis, Johann Wolfgang Goethe-Universität Frankfurt am Main. https://doi.org/10.21248/gups.69221'
 ---
 
 ## Summary
