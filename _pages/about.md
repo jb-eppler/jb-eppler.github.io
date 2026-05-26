@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
-
 I am a postdoctoral researcher at the Centre de Recerca Matemàtica in Barcelona, investigating how neural circuits maintain stable function despite ongoing change. I completed my PhD in Physics at Goethe University Frankfurt, specializing in theoretical and computational neuroscience, where I spent my time analyzing neural data and building models to understand population-level dynamics in the brain.
 
 ## Representational Drift
