@@ -6,7 +6,7 @@ permalink: /publication/2026-02-pnas-drift-hebbian
 excerpt: 'We show that representational drift results from an interplay between Hebbian plasticity and stochastic synaptic changes.'
 date: 2026-02-01
 venue: 'Proceedings of the National Academy of Sciences'
-citation: 'J-B Eppler, T Lai, D F Aschauer, S Rumpel, & M Kaschube. (2026). &quot;Representational drift reflects ongoing balancing of stochastic changes by Hebbian learning.&quot; <i>Proceedings of the National Academy of Sciences</i>, 123(5), e2503046123. https://doi.org/10.1073/pnas.2503046123'
+citation: 'J-B Eppler, T Lai, DF Aschauer, S Rumpel, & M Kaschube. (2026). &quot;Representational drift reflects ongoing balancing of stochastic changes by Hebbian learning.&quot; <i>Proceedings of the National Academy of Sciences</i>, 123(5), e2503046123. https://doi.org/10.1073/pnas.2503046123'
 ---
 
 ## Abstract
