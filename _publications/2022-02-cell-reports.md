@@ -7,7 +7,7 @@ excerpt: 'We show that learning-induced plasticity in representations of sound s
 date: 2022-02-15
 venue: 'Cell Reports'
 # paperurl: 'https://doi.org/10.1016/j.celrep.2022.110340'
-citation: 'DF Aschauer, J-B Eppler, L Ewig, AR Chambers, C Pokorny, M Kaschube, & S Rumpel. (2022). &quot;Learning-induced biases in the ongoing dynamics of sensory representations predict stimulus generalization.&quot; <i>Cell Reports</i>, 38(6), 110340.'
+citation: 'DF Aschauer, J-B Eppler, L Ewig, AR Chambers, C Pokorny, M Kaschube, & S Rumpel. (2022). &quot;Learning-induced biases in the ongoing dynamics of sensory representations predict stimulus generalization.&quot; <i>Cell Reports</i>, 38(6), 110340. https://doi.org/10.1016/j.celrep.2022.110340'
 ---
 
 ## Abstract
