@@ -7,7 +7,7 @@ excerpt: 'Despite stability in topographic maps, individual neurons undergo subs
 date: 2023-09-01
 venue: 'Cerebral Cortex'
 # paperurl: 'https://doi.org/10.1093/cercor/bhac445'
-citation: 'AR Chambers, DF Aschauer, J-B Eppler, M Kaschube, & S Rumpel. (2023). &quot;A stable sensory map emerges from a dynamic equilibrium of neurons with unstable tuning properties.&quot; <i>Cerebral Cortex</i>, 33(9), 5597–5612.'
+citation: 'AR Chambers, DF Aschauer, J-B Eppler, M Kaschube, & S Rumpel. (2023). &quot;A stable sensory map emerges from a dynamic equilibrium of neurons with unstable tuning properties.&quot; <i>Cerebral Cortex</i>, 33(9), 5597–5612. https://doi.org/10.1093/cercor/bhac445'
 ---
 
 ## Abstract
