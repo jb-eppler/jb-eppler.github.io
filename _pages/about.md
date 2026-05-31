@@ -19,7 +19,7 @@ This opens fundamental questions, challenging our basic understanding of what ne
 
 Rather than defining neural representations as specific activity patterns, they are better understood as geometric structures, manifolds embedded in high-dimensional neural activity. In this view, individual neurons can drift freely, but the geometry that encodes meaning, i.e. the similarity between stimuli, remains stable.
 
-This reframing reconciles a fundamental tension: representations must be flexible enough to learn and adapt, yet stable enough to support lasting memories and consistent behavior. The key lies in degeneracy, the idea that many different neural configurations can implement the same computation. Drift moves the brain through this degenerate space, preserving what matters (relational structure) while allowing flexibility at the level of individual neurons.
+This reframing reconciles a fundamental tension: representations must be flexible enough to learn and adapt, yet stable enough to support lasting memories and consistent behavior. The key might be degeneracy, the idea that many different neural configurations can implement the same computation. Drift moves the brain through this degenerate space, preserving what matters (relational structure) while allowing flexibility at the level of individual neurons.
 
 ## Current Research
 
