@@ -25,4 +25,4 @@ redirect_from:
 
 ---
 
-[Download full CV (PDF)]({{ base_path }}/files/cv.pdf)
+<a href="{{ base_path }}/files/cv.pdf" target="_blank">Download full CV (PDF)</a>
